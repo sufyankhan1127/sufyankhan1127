@@ -17,12 +17,12 @@
 ## 💫 About Me
 
 ```yaml
-name: Mohd Sufyan Khan
-role: Java Full Stack Developer
-strengths: [Spring, Spring Boot, Spring Security, JWT, Spring Data JPA, Docker, REST APIs]
-currently_exploring: [Redis, Kafka, MCP Servers, AI for Java Full Stack, Microservices, System Design]
-goal: Become an SDE at a product-based company 🎯
-fun_fact: I turn coffee into scalable, secure, event-driven code ☕➡️🔐➡️⚡
+Name: Mohd Sufyan Khan
+Role: Java Full Stack Developer
+Strengths: [Spring, Spring Boot, Spring Security, JWT, Spring Data JPA, Docker, REST APIs]
+Currently_exploring: [Redis, Kafka, MCP Servers, AI for Java Full Stack, Microservices, System Design]
+Goal: Become an SDE at a product-based company 🎯
+Fun_fact: I turn coffee into scalable, secure, event-driven code ☕➡️🔐➡️⚡
 ```
 
 ![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
@@ -118,6 +118,9 @@ public class CurrentFocus {
 ### 🍔 UrbanEats — Food Ordering Web Application
 `Java` `Spring Boot` `JSP` `JDBC` `MySQL`
 
+### 🍔 FoodExpress — Food Ordering Web Application with Admin Portal
+`Java` `Spring Boot` `JSP` `Hibernate` `PostgreSQL` `Render`
+
 ### 💰 Expense Tracker — Budget & Expense Management Web App
 `HTML` `CSS` `JavaScript`
 
@@ -140,21 +143,10 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=radical&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sufyankhan1127&theme=radical&no-frame=true&row=1&column=7"/>
-
 </div>
 
 ![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> ⚙️ Requires the **Snake Animation GitHub Action** enabled on your profile repo to render live.
-
-![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 📫 Connect With Me
 
