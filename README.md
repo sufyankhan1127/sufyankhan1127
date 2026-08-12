@@ -126,7 +126,7 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true"/>
+
 <img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=radical&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=radical&hide_border=true" width="100%"/>
