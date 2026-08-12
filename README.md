@@ -136,9 +136,7 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyankhan1127&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan1127&layout=compact&theme=radical&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=radical&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=radical&hide_border=true" width="100%"/>
