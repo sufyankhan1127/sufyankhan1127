@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=250&section=header&text=Mohd%20Sufyan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:0070F3&height=260&section=header&text=Mohd%20Sufyan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+Backend+Developer+%E2%9A%99%EF%B8%8F;React.js+Frontend+Developer+%E2%9A%9B%EF%B8%8F;Building+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%2B+Spring+Security+%2B+JWT+%F0%9F%94%90;REST+API+%2B+Docker+Developer+%F0%9F%90%B3;Exploring+Redis+%2B+Kafka+%E2%9A%A1;Diving+into+MCP+%26+AI+for+Java+%F0%9F%A4%96" alt="Typing SVG" />
 
 <a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00BFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-FF0080?style=for-the-badge&labelColor=000000" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sufyankhan1127&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sufyankhan1127&label=Profile%20Views&color=FF0080&style=for-the-badge" alt="profile views"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 💫 About Me
 
 ```yaml
 name: Mohd Sufyan Khan
 role: Java Full Stack Developer
-focus: Backend Development, REST APIs, Cloud Deployment, Software Engineering
-currently_exploring: [Advanced Spring Boot, Microservices, System Design, DSA]
+strengths: [Spring, Spring Boot, Spring Security, JWT, Spring Data JPA, Docker, REST APIs]
+currently_exploring: [Redis, Kafka, MCP Servers, AI for Java Full Stack, Microservices, System Design]
 goal: Become an SDE at a product-based company 🎯
-fun_fact: I turn coffee into scalable code ☕➡️💻
+fun_fact: I turn coffee into scalable, secure, event-driven code ☕➡️🔐➡️⚡
 ```
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 🛠 Tech Stack
 
@@ -34,47 +34,83 @@ fun_fact: I turn coffee into scalable code ☕➡️💻
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,postgres,mongodb&theme=dark" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate&theme=dark" />
+### Backend & Security
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF0080?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
+### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,supabase&theme=dark" />
 
-### Tools & DevOps
+### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render,vscode,idea,eclipse&theme=dark" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+## 🤖 Exploring AI x Java Full Stack
+
+<div align="center">
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-7928CA?style=for-the-badge&logo=protocols&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Integration-FF0080?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-0070F3?style=for-the-badge&logo=chainlink&logoColor=white)
+
+</div>
+
+```java
+public class CurrentFocus {
+    String[] exploring = {
+        "Redis - caching & pub/sub",
+        "Kafka - event-driven microservices",
+        "MCP Servers - connecting AI models to real tools",
+        "AI-powered Java backends"
+    };
+
+    public String goal() {
+        return "Build intelligent, scalable, production-ready systems 🚀";
+    }
+}
+```
+
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 📚 Core Concepts
 
 <div align="center">
 
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-8A2BE2?style=for-the-badge)
-![Singleton](https://img.shields.io/badge/Design%20Pattern-Singleton-00BFFF?style=for-the-badge)
-![MVC](https://img.shields.io/badge/Architecture-MVC-8A2BE2?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/Operations-CRUD-00BFFF?style=for-the-badge)
-![REST](https://img.shields.io/badge/API-REST-8A2BE2?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Deployment-Cloud-00BFFF?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Methodology-Agile-8A2BE2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-7928CA?style=for-the-badge)
+![Singleton](https://img.shields.io/badge/Design%20Pattern-Singleton-FF0080?style=for-the-badge)
+![MVC](https://img.shields.io/badge/Architecture-MVC-0070F3?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/Operations-CRUD-7928CA?style=for-the-badge)
+![Security](https://img.shields.io/badge/Auth-JWT%20%2F%20OAuth2-FF0080?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-0070F3?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Deployment-Docker%20%2F%20Cloud-7928CA?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Methodology-Agile-FF0080?style=for-the-badge)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/sufyankhan1127">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=UrbanEats&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=UrbanEats&theme=radical&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/sufyankhan1127">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=Expense-Tracker&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=Expense-Tracker&theme=radical&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -91,24 +127,24 @@ Responsive portfolio showcasing projects, skills, and experience.
 ### 📚 Java Notes
 Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handling & DSA.
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 📊 GitHub Stats & Streak
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyankhan1127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan1127&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyankhan1127&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan1127&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=radical&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sufyankhan1127&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sufyankhan1127&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 🐍 Contribution Snake
 
@@ -116,27 +152,9 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 <img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> ⚙️ Enable this by adding the **Snake Animation GitHub Action** to your profile repo — auto-generates a snake eating your contribution graph.
+> ⚙️ Requires the **Snake Animation GitHub Action** enabled on your profile repo to render live.
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-![Collections](https://img.shields.io/badge/-Java%20Collections-orange?style=flat-square)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-green?style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT%20Auth-black?style=flat-square)
-![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design-purple?style=flat-square)
-![SQL](https://img.shields.io/badge/-Advanced%20SQL-lightgrey?style=flat-square)
-![DSA](https://img.shields.io/badge/-DSA-red?style=flat-square)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ## 📫 Connect With Me
 
@@ -157,7 +175,7 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 <div align="center">
 
@@ -167,6 +185,6 @@ Comprehensive notes on OOP, Collections, Multithreading, JDBC, Exception Handlin
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,50:7928CA,100:FF0080&height=120&section=footer"/>
 
 </div>
