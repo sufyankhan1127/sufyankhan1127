@@ -104,16 +104,6 @@ public class CurrentFocus {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sufyankhan1127">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=UrbanEats&theme=radical&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/sufyankhan1127">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sufyankhan1127&repo=Expense-Tracker&theme=radical&hide_border=true&border_radius=10" />
-</a>
-
-</div>
 
 ### 🍔 UrbanEats — Food Ordering Web Application
 `Java` `Spring Boot` `JSP` `JDBC` `MySQL`
