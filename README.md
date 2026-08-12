@@ -1,98 +1,178 @@
-<div align="center">
+ Mohd Sufyan Khan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:0070F3&height=260&section=header&text=Mohd%20Sufyan%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%2B+Spring+Security+%2B+JWT+%F0%9F%94%90;REST+API+%2B+Docker+Developer+%F0%9F%90%B3;Exploring+Redis+%2B+Kafka+%E2%9A%A1;Diving+into+MCP+%26+AI+for+Java+%F0%9F%A4%96" alt="Typing SVG" />
-
-<a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-FF0080?style=for-the-badge&labelColor=000000" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:7C3AED,100:06B6D4&height=280&section=header&text=Mohd%20Sufyan%20Khan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React.js%20%7C%20AI&descAlignY=57&descSize=18"/><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%7C+Spring+Security+%7C+JWT+%F0%9F%94%90;REST+APIs+%7C+Microservices+%7C+Docker+%F0%9F%90%B3;Redis+%7C+Kafka+%7C+Event-Driven+Systems+%E2%9A%A1;Exploring+AI+%7C+MCP+%7C+LangChain4j+%F0%9F%A4%96"/><br/><a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-06B6D4?style=for-the-badge&logoColor=white"/>
 </a>
+<a href="https://github.com/sufyankhan1127">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sufyankhan1127&label=Profile%20Views&color=FF0080&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sufyankhan1127&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/></div>---
 
-</div>
+👨‍💻 About Me
 
-![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<table>
+<tr>
+<td width="60%">Hi, I'm Sufyan 👋
 
-## 💫 About Me
+I'm a Java Full Stack Developer focused on building secure, scalable and production-ready applications.
 
-```yaml
-Name: Mohd Sufyan Khan
-Role: Java Full Stack Developer
-Strengths: [Spring, Spring Boot, Spring Security, JWT, Spring Data JPA, Docker, REST APIs]
-Currently_exploring: [Redis, Kafka, MCP Servers, AI for Java Full Stack, Microservices, System Design]
-Goal: Become an SDE at a product-based company 🎯
-Fun_fact: I turn coffee into scalable, secure, event-driven code ☕➡️🔐➡️⚡
-```
+I enjoy working across the stack — from React interfaces to Spring Boot APIs, databases, authentication and cloud deployment.
 
-![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+Currently exploring Microservices, Redis, Kafka and AI-powered Java applications.
 
-## 🛠 Tech Stack
+🎯 Goal: Become an SDE at a product-based company.
 
-<div align="center">
+</td><td width="40%">💻 Java Full Stack
+⚡ Spring Boot
+🔐 Spring Security + JWT
+🌐 REST APIs
+🐳 Docker
+☁️ Cloud Deployment
+📨 Kafka
+⚡ Redis
+🤖 AI + MCP
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,postgres,mongodb&theme=dark" />
+</td>
+</tr>
+</table>---
 
-### Backend & Security
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" />
+⚡ Tech Stack
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF0080?style=for-the-badge&logo=fastapi&logoColor=white"/>
+☕ Backend
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark"/>
+</p>Spring Boot · Spring MVC · Spring Security · Spring Data JPA · REST APIs · JWT · JDBC · JSP · Servlets
 
-### Databases & Messaging
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,supabase&theme=dark" />
+🎨 Frontend
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render,vscode,idea,eclipse&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark"/>
+</p>🗄️ Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark"/>
+</p>🛠️ DevOps & Tools
 
-![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render,vscode,idea,eclipse&theme=dark"/>
+</p>📨 Distributed Systems & AI
 
-## 🤖 Exploring AI x Java Full Stack
+<p>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
+</p>"Apache Kafka" · "Redis" · "MCP Servers" · "LangChain4j" · "AI Integration" · "Microservices"
 
-<div align="center">
+---
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Server-7928CA?style=for-the-badge&logo=protocols&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Integration-FF0080?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-0070F3?style=for-the-badge&logo=chainlink&logoColor=white)
+🧠 Engineering Focus
 
-</div>
+<div align="center">🔐 Security| ⚡ Performance| 🧩 Architecture
+JWT Authentication| Redis Caching| Microservices
+Spring Security| Database Optimization| REST APIs
+OAuth2| Event-Driven Systems| MVC
+Role-Based Access| Kafka| Clean Architecture
 
-```java
-public class CurrentFocus {
-    String[] exploring = {
-        "Redis - caching & pub/sub",
-        "Kafka - event-driven microservices",
-        "MCP Servers - connecting AI models to real tools",
-        "AI-powered Java backends"
-    };
+</div>---
 
-    public String goal() {
-        return "Build intelligent, scalable, production-ready systems 🚀";
-    }
-}
-```
+🤖 Currently Exploring
 
-![divider](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<div align="center"><img src="https://img.shields.io/badge/Redis-Caching%20%7C%20Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-Event--Driven%20Systems-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-AI%20Tool%20Integration-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain4j-Java%20AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-Distributed%20Systems-2563EB?style=for-the-badge"/></div>«Building toward intelligent backend systems where Java + distributed systems + AI work together.»
 
-## 📚 Core Concepts
+---
 
-<div align="center">
+🚀 Featured Projects
 
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-7928CA?style=for-the-badge)
-![Singleton](https://img.shields.io/badge/Design%20Pattern-Singleton-FF0080?style=for-the-badge)
-![MVC](https://img.shields.io/badge/Architecture-MVC-0070F3?style=for-the-badge)
-![CRUD](https://img.shields.io/badge/Operations-CRUD-7928CA?style=for-the-badge)
+🍔 UrbanEats
+
+Food Ordering Web Application
+
+"Java" "Spring Boot" "JSP" "JDBC" "MySQL" "REST APIs"
+
+- Multi-user food ordering platform
+- Restaurant and menu management
+- Backend APIs and database integration
+
+---
+
+🍕 FoodExpress
+
+Food Ordering Platform with Admin Portal
+
+"Java" "Spring Boot" "Hibernate" "PostgreSQL" "Render"
+
+- Customer and admin workflows
+- Authentication and database persistence
+- Deployed application
+
+🔗 "Live Demo" (https://food-express-qnae.onrender.com/)
+
+---
+
+💰 Expense Tracker
+
+Budget & Expense Management Application
+
+"Spring" "Spring MVC" "REST API" "Hibernate" "MySQL"
+
+- Expense tracking and budget management
+- RESTful backend architecture
+- Hibernate/JPA database integration
+
+---
+
+🌐 Personal Portfolio
+
+Responsive developer portfolio showcasing projects, skills and experience.
+
+🔗 "Visit Portfolio" (https://sufyankhan1127.github.io/sufyan-portfolio/)
+
+---
+
+📚 What I Know
+
+<div align="center">"OOP" · "Collections" · "Exception Handling" · "Multithreading" · "JDBC"
+
+"DSA" · "Design Patterns" · "MVC" · "CRUD" · "REST"
+
+"Spring Boot" · "Spring Security" · "JPA/Hibernate" · "JWT"
+
+"Git" · "Docker" · "Postman" · "Cloud Deployment"
+
+</div>---
+
+📊 GitHub Analytics
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true&background=0D1117"/><br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/></div>---
+
+🐍 Contribution Activity
+
+<div align="center"><img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
+
+🤝 Let's Connect
+
+<div align="center"><a href="mailto:sufyankhan.01127@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/sufyankhan1127">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a></div><br/><div align="center">💡
+
+"First, solve the problem. Then, write the code."
+
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:0F172A&height=140&section=footer"/></div>![CRUD](https://img.shields.io/badge/Operations-CRUD-7928CA?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Auth-JWT%20%2F%20OAuth2-FF0080?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Architecture-Microservices-0070F3?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Deployment-Docker%20%2F%20Cloud-7928CA?style=for-the-badge)
