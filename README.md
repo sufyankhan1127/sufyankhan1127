@@ -111,7 +111,7 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
-## 🧠 Engineering Focus
+### 🧠 Engineering Focus
 
 <div align="center">
 
