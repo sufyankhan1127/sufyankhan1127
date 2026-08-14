@@ -40,32 +40,77 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 </tr>
 </table>---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
-☕ Backend
+### ☕ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark"/>
-</p>Spring Boot · Spring MVC · Spring Security · Spring Data JPA · REST APIs · JWT · JDBC · JSP · Servlets
+<div align="center">
 
-🎨 Frontend
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring_MVC-111827?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring_Security-111827?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-111827?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Hibernate-111827?style=for-the-badge&logo=hibernate&logoColor=BCAE79"/>
+<img src="https://img.shields.io/badge/Maven-111827?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/JDBC-111827?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark"/>
-</p>🗄️ Databases
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark"/>
-</p>🛠️ DevOps & Tools
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render,vscode,idea,eclipse&theme=dark"/>
-</p>📨 Distributed Systems & AI
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
-</p>"Apache Kafka" · "Redis" · "MCP Servers" · "LangChain4j" · "AI Integration" · "Microservices"
+<img src="https://img.shields.io/badge/React.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC"/>
 
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+
+</div>
+
+### 🛠️ DevOps & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-111827?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
+
+</div>
+
+### ⚡ Distributed Systems & AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Apache_Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain4j-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
 ---
 
 🧠 Engineering Focus
