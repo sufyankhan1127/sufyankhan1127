@@ -111,25 +111,39 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
+## 🧠 Engineering Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Security-JWT%20%7C%20OAuth2-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Performance-Redis%20Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-JPA%20%7C%20Optimization-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-REST%20%7C%20MVC-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Messaging-Kafka%20%7C%20Event--Driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Auth-Role--Based%20Access-2563EB?style=for-the-badge"/>
+
+</div>
+
 ---
 
-🧠 Engineering Focus
+## 🤖 Currently Exploring
 
-<div align="center">🔐 Security| ⚡ Performance| 🧩 Architecture
-JWT Authentication| Redis Caching| Microservices
-Spring Security| Database Optimization| REST APIs
-OAuth2| Event-Driven Systems| MVC
-Role-Based Access| Kafka| Clean Architecture
+<div align="center">
 
-</div>---
-
-🤖 Currently Exploring
-
-<div align="center"><img src="https://img.shields.io/badge/Redis-Caching%20%7C%20Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-Caching%20%7C%20Pub%2FSub-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-Event--Driven%20Systems-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Distributed%20Systems-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-AI%20Tool%20Integration-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain4j-Java%20AI-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-Distributed%20Systems-2563EB?style=for-the-badge"/></div>«Building toward intelligent backend systems where Java + distributed systems + AI work together.»
+<img src="https://img.shields.io/badge/AI%20Integration-Java%20AI-FF0080?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
+**Building toward intelligent, scalable and production-ready systems.**
+
+</div>
 
 ---
 
