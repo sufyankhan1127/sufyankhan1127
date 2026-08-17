@@ -152,7 +152,7 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/>
 
-###🐍 Contribution Activity
+🐍 Contribution Activity
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>
