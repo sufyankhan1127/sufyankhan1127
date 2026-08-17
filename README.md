@@ -40,7 +40,7 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 </tr>
 </table>---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### ☕ Backend
 
@@ -146,15 +146,15 @@ Currently exploring Microservices, Redis, Kafka and AI-powered Java applications
 
 
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true&background=0D1117"/><br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/></div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/></div>
 
-🐍 Contribution Activity
+###🐍 Contribution Activity
 
-<div align="center"><img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>---
+<div align="center"><img src="https://raw.githubusercontent.com/sufyankhan1127/sufyankhan1127/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/></div>
 
 ### 🤝 Let's Connect
 
