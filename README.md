@@ -278,7 +278,9 @@ Building toward intelligent, scalable and production-ready systems.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyankhan1127&theme=tokyo-night&hide_border=true" width="95%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sufyankhan1127&theme=tokyonight&hide_border=true&background=0D1117" width="95%"/>
+</p>
 
 </div>
 
