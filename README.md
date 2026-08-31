@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=180&section=header&text=Mohd%20Sufyan%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=190&section=header&text=Mohd%20Sufyan%20Khan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-### Java Full Stack Developer
+# Java Backend & Full Stack Developer
 
-**Spring Boot • React.js • REST APIs • MySQL • Spring Security**
+### Java • Spring Boot • REST APIs • React.js • MySQL • Spring Security
 
-Building secure, scalable and production-ready web applications.
+Building **secure, scalable and maintainable web applications** with Java and modern backend technologies.
 
 <br>
 
 <a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/sufyankhan1127">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sufyankhan.01127@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -33,103 +33,101 @@ Building secure, scalable and production-ready web applications.
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** focused on building secure, scalable and maintainable applications using **Java, Spring Boot and React.js**.
+I'm a **Java Backend & Full Stack Developer** focused on building real-world applications using **Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate and React.js**.
 
-I enjoy working across the complete application stack — from traditional Java web applications and database connectivity to modern REST APIs, authentication, ORM and cloud deployment.
+My development experience spans both **traditional Java web applications** using JSP, Servlets and JDBC and modern **Spring Boot REST architectures** with authentication, ORM, database persistence and cloud deployment.
 
-Currently exploring **Microservices, Redis, Apache Kafka and AI-powered Java applications**.
+I enjoy solving backend problems, designing clean application layers and turning requirements into functional software.
 
-<br>
+### 🎯 Recruiter Snapshot
 
-<div align="center">
-
-| Backend | Frontend | Database | DevOps |
-|:---:|:---:|:---:|:---:|
-| ☕ Java | ⚛️ React.js | 🐬 MySQL | 🔧 Git |
-| 🌱 Spring Boot | 🟨 JavaScript | 🐘 PostgreSQL | 🐙 GitHub |
-| 🔐 Spring Security | 🌐 HTML5 | 🍃 MongoDB | 🐳 Docker |
-| 🔗 REST APIs | 🎨 CSS3 | 🔴 Redis | 📮 Postman |
-| 🗃️ JPA / Hibernate | Redux | Supabase | ☁️ Render |
-
-</div>
+|                          |                                                     |
+| ------------------------ | --------------------------------------------------- |
+| 💻 **Primary Focus**     | Java Backend & Full Stack Development               |
+| ☕ **Core Language**      | Java                                                |
+| ⚙️ **Backend**           | Spring Boot, Spring MVC, REST APIs, Spring Security |
+| 🔐 **Security**          | JWT Authentication & Role-Based Authorization       |
+| 🗄️ **Database**         | MySQL, PostgreSQL, MongoDB                          |
+| 🧩 **ORM / Persistence** | Spring Data JPA, Hibernate, JDBC                    |
+| ⚛️ **Frontend**          | React.js, JavaScript, HTML5, CSS3                   |
+| 🛠️ **Tools**            | Git, GitHub, Maven, Postman, Docker                 |
+| ☁️ **Deployment**        | Render, Vercel                                      |
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🍔 UrbanEats — Java Food Delivery Application
 
-### 🍔 UrbanEats
+A **Java-based food delivery web application** developed using traditional Java web technologies and an MVC-oriented architecture.
 
-**Java-based food delivery web application**
+### Key Features
 
-Traditional Java web application built using JSP, Servlets and JDBC with an MVC-based architecture.
+* User authentication and session management
+* Restaurant and food management
+* Order management
+* CRUD operations
+* Database integration using JDBC
+* MVC-based application structure
 
-**Core Features**
-
-`User Authentication` `Restaurant Management` `Food Management` `Orders` `CRUD` `JDBC`
-
-**Tech Stack**
-
-`Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML` `CSS`
-
-<br>
+**Tech:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML` `CSS`
 
 <a href="https://github.com/sufyankhan1127/UrbanEats">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🍕 Food Express
+## 🍕 Food Express — Spring Boot REST Application
 
-**Modern Spring Boot food application**
+A **full-stack food application** demonstrating production-oriented backend development with Spring Boot.
 
-A full-stack backend demonstrating REST APIs, JWT authentication, Spring Security, JPA/Hibernate and database persistence.
+### Key Features
 
-**Core Features**
+* JWT-based authentication
+* Role-based authorization
+* RESTful API design
+* CRUD operations
+* Spring Security integration
+* JPA/Hibernate persistence
+* MySQL database integration
 
-`JWT Authentication` `Authorization` `REST APIs` `CRUD` `JPA` `Hibernate` `Spring Security`
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security` `JWT` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
-
-<br>
+**Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
 
 <a href="https://food-express-qnae.onrender.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/sufyankhan1127">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 💰 Expense & Savings Tracker
+## 💰 Expense & Savings Tracker
 
-**Budget and savings management application**
+A Spring Boot application for managing **expenses, budgets and savings** through RESTful APIs and persistent database storage.
 
-Spring Boot application designed to manage expenses, budgets and savings through RESTful APIs and persistent database storage.
+### Key Features
 
-**Core Features**
+* Expense management
+* Budget tracking
+* Savings management
+* RESTful CRUD APIs
+* JPA/Hibernate persistence
+* MySQL database integration
 
-`Expense Management` `Budget Tracking` `Savings` `CRUD` `REST APIs` `JPA` `Hibernate`
-
-**Tech Stack**
-
-`Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
-
-<br>
+**Tech:** `Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
 
 <a href="https://expense-budget-savings-tracker.onrender.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-# 🛠️ Technical Stack
+# 🧰 Technical Skills
 
-### ☕ Backend
+### ☕ Backend & Java
 
 <div align="center">
 
@@ -137,22 +135,17 @@ Spring Boot application designed to manage expenses, budgets and savings through
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring_MVC-0F172A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring_Security-0F172A?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-0F172A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-0F172A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring%20Security-0F172A?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-0F172A?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-0F172A?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/JSP-0F172A?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/Servlets-0F172A?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 
 </div>
-
----
 
 ### ⚛️ Frontend
 
@@ -170,8 +163,6 @@ Spring Boot application designed to manage expenses, budgets and savings through
 
 </div>
 
----
-
 ### 🗄️ Databases
 
 <div align="center">
@@ -184,13 +175,10 @@ Spring Boot application designed to manage expenses, budgets and savings through
 <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 
 </div>
 
----
-
-### 🧰 Tools & DevOps
+### 🛠️ Tools & Deployment
 
 <div align="center">
 
@@ -202,6 +190,7 @@ Spring Boot application designed to manage expenses, budgets and savings through
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Maven-0F172A?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
 <img src="https://img.shields.io/badge/Render-0F172A?style=for-the-badge&logo=render&logoColor=46E3B7"/>
 <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 
@@ -209,46 +198,47 @@ Spring Boot application designed to manage expenses, budgets and savings through
 
 ---
 
-# 🧠 Engineering Focus
+# 🏗️ Engineering Strengths
 
 <div align="center">
 
-| Engineering Area | Technologies |
-|:---|:---|
-| 🔐 **Security** | Spring Security • JWT • Role-Based Access |
-| ⚡ **API Engineering** | REST • Spring MVC • API Design |
-| 🗄️ **Persistence** | JDBC • JPA • Hibernate • SQL |
-| 🏗️ **Architecture** | MVC • Layered Architecture |
-| 🌐 **Web Development** | JSP • Servlets • Spring Boot |
-| 🚀 **Deployment** | Docker • Render • Vercel |
-| 🧪 **Development Tools** | Git • GitHub • Postman |
+| Area                        | Experience                                              |
+| :-------------------------- | :------------------------------------------------------ |
+| ☕ **Java Development**      | OOP • Collections • Exception Handling • Multithreading |
+| ⚙️ **Backend Engineering**  | Spring Boot • Spring MVC • REST APIs                    |
+| 🔐 **Application Security** | Spring Security • JWT • Role-Based Authorization        |
+| 🗄️ **Data & Persistence**  | SQL • JDBC • JPA • Hibernate                            |
+| 🏛️ **Architecture**        | MVC • Layered Architecture • DTO Pattern                |
+| 🌐 **Web Development**      | JSP • Servlets • RESTful Applications                   |
+| 🧪 **API Development**      | Postman • API Testing • HTTP Methods & Status Codes     |
+| 🚀 **Deployment**           | Docker • Render • Vercel                                |
+| 🔧 **Version Control**      | Git • GitHub                                            |
 
 </div>
 
 ---
 
-# 🔭 Currently Exploring
+# 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-0F172A?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-0F172A?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain4j-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Integration-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Integration-0F172A?style=for-the-badge"/>
 
 <br><br>
 
-### Learning → Building → Improving
+**Learning → Building → Deploying → Improving**
 
-Building toward **intelligent, scalable and production-ready systems.**
+Exploring modern backend architecture and AI integration with Java.
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -260,11 +250,7 @@ Building toward **intelligent, scalable and production-ready systems.**
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankhan1127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true&background=0D1117" width="70%"/>
 
@@ -286,29 +272,31 @@ Building toward **intelligent, scalable and production-ready systems.**
 
 <div align="center">
 
-I'm always open to discussing **Java, Spring Boot, Full Stack Development, Backend Engineering and interesting software projects.**
+### Interested in Java Backend, Spring Boot & Full Stack Development?
 
-<br><br>
+I'm open to **software development opportunities, collaborations and interesting engineering projects.**
+
+<br>
 
 <a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sufyankhan1127">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:sufyankhan.01127@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 💡 Building today. Learning every day. Engineering for tomorrow.
+**Building today. Learning every day. Engineering for tomorrow.**
 
 </div>
 
