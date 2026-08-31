@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#07111f"/>
+    <stop offset="55%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#082f49"/>
+  </linearGradient>
+  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="100%" stop-color="#67e8f9"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#g)"/>
+<path d="M0 230 C160 145 235 270 390 190 S650 105 790 190 S1030 275 1200 150" fill="none" stroke="#164e63" stroke-width="2"/>
+<path d="M0 250 C180 165 250 285 420 205 S670 125 815 205 S1030 290 1200 175" fill="none" stroke="#0e7490" stroke-width="1.5" opacity=".8"/>
+<circle cx="1050" cy="65" r="1.5" fill="#67e8f9"/><circle cx="1080" cy="85" r="1.2" fill="#67e8f9"/>
+<circle cx="1110" cy="50" r="1.4" fill="#67e8f9"/><circle cx="1140" cy="105" r="1.2" fill="#67e8f9"/>
+<text x="600" y="100" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="46" font-weight="800">MOHD SUFYAN KHAN</text>
+<text x="600" y="145" text-anchor="middle" fill="url(#a)" font-family="Arial,sans-serif" font-size="22" font-weight="700">JAVA BACKEND &amp; FULL STACK DEVELOPER</text>
+<text x="600" y="180" text-anchor="middle" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="15">Java  •  Spring Boot  •  REST APIs  •  React.js  •  MySQL  •  Spring Security</text>
+<rect x="440" y="210" width="320" height="38" rx="19" fill="#07111f" stroke="#06b6d4"/>
+<circle cx="465" cy="229" r="5" fill="#22c55e" filter="url(#glow)"/>
+<text x="485" y="235" fill="#86efac" font-family="'DejaVu Sans Mono',monospace" font-size="13">OPEN TO SOFTWARE OPPORTUNITIES</text>
+<text x="600" y="280" text-anchor="middle" fill="#64748b" font-family="'DejaVu Sans Mono',monospace" font-size="11">$ build • deploy • learn • improve</text>
+</svg>

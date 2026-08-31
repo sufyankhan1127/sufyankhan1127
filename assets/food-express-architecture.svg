@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101c"/><stop offset="1" stop-color="#0b1d2a"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.m{font-family:'DejaVu Sans Mono',monospace}.s{font-family:Arial,sans-serif}</style>
+</defs>
+<rect x="5" y="5" width="990" height="290" rx="16" fill="url(#b)" stroke="#164e63"/>
+<text x="500" y="34" text-anchor="middle" class="m" fill="#67e8f9" font-size="15" font-weight="700">FOOD EXPRESS — REQUEST FLOW</text>
+<rect x="40" y="92" width="170" height="92" rx="12" fill="#081522" stroke="#06b6d4"/>
+<text x="125" y="127" text-anchor="middle" class="s" fill="#f8fafc" font-size="16" font-weight="700">React.js</text>
+<text x="125" y="153" text-anchor="middle" class="m" fill="#94a3b8" font-size="12">Frontend</text>
+<path d="M210 138 H290" stroke="#67e8f9" stroke-width="2"/><path d="M280 130 l12 8 -12 8" fill="none" stroke="#67e8f9" stroke-width="2"/>
+<text x="250" y="121" text-anchor="middle" class="m" fill="#67e8f9" font-size="11">REST / JSON</text>
+<rect x="300" y="62" width="300" height="152" rx="14" fill="#07101c" stroke="#22c55e"/>
+<text x="450" y="90" text-anchor="middle" class="s" fill="#86efac" font-size="16" font-weight="700">Spring Boot</text>
+<rect x="350" y="105" width="200" height="28" rx="6" fill="#0b2530" stroke="#164e63"/><text x="450" y="124" text-anchor="middle" class="m" fill="#f8fafc" font-size="12">Controller</text>
+<rect x="350" y="140" width="200" height="28" rx="6" fill="#0b2530" stroke="#164e63"/><text x="450" y="159" text-anchor="middle" class="m" fill="#f8fafc" font-size="12">Service</text>
+<rect x="350" y="175" width="200" height="28" rx="6" fill="#0b2530" stroke="#164e63"/><text x="450" y="194" text-anchor="middle" class="m" fill="#f8fafc" font-size="12">Repository</text>
+<path d="M600 138 H690" stroke="#67e8f9" stroke-width="2"/><path d="M680 130 l12 8 -12 8" fill="none" stroke="#67e8f9" stroke-width="2"/>
+<text x="645" y="121" text-anchor="middle" class="m" fill="#67e8f9" font-size="11">JPA</text>
+<rect x="700" y="92" width="160" height="92" rx="12" fill="#081522" stroke="#06b6d4"/>
+<text x="780" y="127" text-anchor="middle" class="s" fill="#f8fafc" font-size="16" font-weight="700">MySQL</text>
+<text x="780" y="153" text-anchor="middle" class="m" fill="#94a3b8" font-size="12">Persistence</text>
+<rect x="285" y="238" width="430" height="34" rx="9" fill="#081522" stroke="#164e63"/>
+<text x="500" y="260" text-anchor="middle" class="m" fill="#86efac" font-size="12">🔐 Spring Security  •  JWT Authentication  •  RBAC</text>
+</svg>
