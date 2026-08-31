@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="55%" stop-color="#0F172A"/>
+    <stop offset="100%" stop-color="#071D2A"/>
+  </linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#06B6D4"/>
+    <stop offset="100%" stop-color="#67E8F9"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono{font-family:'DejaVu Sans Mono',monospace}
+    .sans{font-family:Arial,sans-serif}
+    .cyan{fill:#67E8F9}
+    .green{fill:#22C55E}
+    .muted{fill:#94A3B8}
+    .white{fill:#F8FAFC}
+    .line{stroke:#164E63;stroke-width:1}
+  </style>
+</defs>
+
+<rect x="8" y="8" width="1184" height="544" rx="18" fill="url(#bg)" stroke="#06B6D4" stroke-width="2"/>
+<rect x="22" y="22" width="1156" height="52" rx="11" fill="#08111F" stroke="#164E63"/>
+
+<circle cx="50" cy="48" r="7" fill="#EF4444"/>
+<circle cx="74" cy="48" r="7" fill="#F59E0B"/>
+<circle cx="98" cy="48" r="7" fill="#22C55E"/>
+<text x="125" y="54" class="mono cyan" font-size="18" font-weight="700">SUFYAN@DEV — COMMAND CENTER</text>
+<text x="1040" y="54" class="mono green" font-size="15">● ONLINE</text>
+
+<!-- left terminal -->
+<rect x="22" y="90" width="350" height="430" rx="12" fill="#07101C" stroke="#164E63"/>
+<text x="44" y="122" class="mono cyan" font-size="17" font-weight="700">$ whoami</text>
+<text x="44" y="151" class="mono white" font-size="15">&gt; Mohd Sufyan Khan</text>
+
+<text x="44" y="190" class="mono cyan" font-size="17" font-weight="700">$ role</text>
+<text x="44" y="219" class="mono white" font-size="15">&gt; Java Backend &amp;</text>
+<text x="44" y="242" class="mono white" font-size="15">  Full Stack Developer</text>
+
+<text x="44" y="281" class="mono cyan" font-size="17" font-weight="700">$ primary_stack</text>
+<text x="44" y="310" class="mono white" font-size="14">Java · Spring Boot</text>
+<text x="44" y="333" class="mono white" font-size="14">REST · JWT · JPA</text>
+<text x="44" y="356" class="mono white" font-size="14">React · MySQL</text>
+
+<text x="44" y="395" class="mono cyan" font-size="17" font-weight="700">$ status</text>
+<text x="44" y="424" class="mono green" font-size="14">&gt; OPEN TO SOFTWARE</text>
+<text x="44" y="446" class="mono green" font-size="14">  ENGINEERING OPPORTUNITIES</text>
+
+<text x="44" y="486" class="mono cyan" font-size="17" font-weight="700">$ _</text>
+
+<!-- stack -->
+<rect x="390" y="90" width="360" height="430" rx="12" fill="#07101C" stroke="#164E63"/>
+<text x="414" y="122" class="mono cyan" font-size="17" font-weight="700">⚙ PRIMARY STACK</text>
+<line x1="414" y1="139" x2="726" y2="139" class="line"/>
+<text x="414" y="178" class="sans white" font-size="16">☕  Java</text>
+<text x="414" y="220" class="sans white" font-size="16">🌱  Spring Boot</text>
+<text x="414" y="262" class="sans white" font-size="16">🔗  REST APIs</text>
+<text x="414" y="304" class="sans white" font-size="16">🔐  Spring Security</text>
+<text x="414" y="346" class="sans white" font-size="16">⚛  React.js</text>
+<text x="414" y="388" class="sans white" font-size="16">🗄  MySQL</text>
+<text x="414" y="430" class="sans white" font-size="16">◈  JPA / Hibernate</text>
+<text x="414" y="472" class="sans white" font-size="16">🐳  Docker</text>
+
+<!-- projects -->
+<rect x="768" y="90" width="410" height="430" rx="12" fill="#07101C" stroke="#164E63"/>
+<text x="792" y="122" class="mono cyan" font-size="17" font-weight="700">🚀 FEATURED PROJECTS</text>
+<line x1="792" y1="139" x2="1152" y2="139" class="line"/>
+
+<text x="792" y="180" class="mono green" font-size="15">[01]</text>
+<text x="842" y="180" class="sans white" font-size="16" font-weight="700">Food Express</text>
+<rect x="1067" y="162" width="67" height="27" rx="6" fill="none" stroke="#22C55E"/>
+<text x="1080" y="181" class="mono green" font-size="12">LIVE</text>
+<rect x="792" y="198" width="342" height="7" rx="3" fill="#0F2A35"/>
+<rect x="792" y="198" width="342" height="7" rx="3" fill="url(#cyan)"/>
+
+<text x="792" y="250" class="mono green" font-size="15">[02]</text>
+<text x="842" y="250" class="sans white" font-size="16" font-weight="700">UrbanEats</text>
+<rect x="1060" y="232" width="74" height="27" rx="6" fill="none" stroke="#67E8F9"/>
+<text x="1071" y="251" class="mono cyan" font-size="12">SOURCE</text>
+<rect x="792" y="268" width="342" height="7" rx="3" fill="#0F2A35"/>
+<rect x="792" y="268" width="342" height="7" rx="3" fill="url(#cyan)"/>
+
+<text x="792" y="320" class="mono green" font-size="15">[03]</text>
+<text x="842" y="320" class="sans white" font-size="16" font-weight="700">Expense Tracker</text>
+<rect x="1067" y="302" width="67" height="27" rx="6" fill="none" stroke="#22C55E"/>
+<text x="1080" y="321" class="mono green" font-size="12">LIVE</text>
+<rect x="792" y="338" width="342" height="7" rx="3" fill="#0F2A35"/>
+<rect x="792" y="338" width="342" height="7" rx="3" fill="url(#cyan)"/>
+
+<text x="792" y="398" class="mono cyan" font-size="16" font-weight="700">$ currently_learning</text>
+<text x="792" y="428" class="mono white" font-size="14">Microservices → Redis → Kafka</text>
+<text x="792" y="452" class="mono white" font-size="14">→ AI Integration</text>
+
+<text x="792" y="492" class="mono cyan" font-size="16" font-weight="700">$ keep_building()</text>
+<text x="1015" y="492" class="mono green" font-size="14">Success ♥</text>
+</svg>
