@@ -4,6 +4,10 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+JWT;Building+secure+and+maintainable+applications;Java+%7C+React.js+%7C+MySQL"/>
+
+<br><br>
+
 <a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -19,11 +23,16 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+JWT;Building+secure+and+maintainable+applications;Java+%7C+React.js+%7C+MySQL"/>
+<img src="https://komarev.com/ghpvc/?username=sufyankhan1127&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sufyankhan1127?label=FOLLOWERS&style=for-the-badge&color=67E8F9&labelColor=0F172A"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
 ## 🖥️ Developer Command Center
 
@@ -33,111 +42,185 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a **Java Backend & Full Stack Developer** focused on building secure, scalable and maintainable applications using **Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate and React.js**.
+> I'm a **Java Backend & Full Stack Developer** focused on building secure, scalable and maintainable applications using **Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate and React.js**.
+>
+> I work across the application stack — from **JSP, Servlets and JDBC** to modern **Spring Boot REST APIs**, authentication, ORM, SQL databases and cloud deployment.
+>
+> I enjoy turning requirements into working software while keeping code structured, testable and maintainable.
 
-I work across the application stack — from **JSP, Servlets and JDBC** to modern **Spring Boot REST APIs**, authentication, ORM, SQL databases and cloud deployment.
-
-I enjoy turning requirements into working software while keeping code structured, testable and maintainable.
-
----
+<br>
 
 ## 🎯 Recruiter Snapshot
 
 <div align="center">
 
-| Backend | Security | Persistence | Frontend | Tools |
-|:---:|:---:|:---:|:---:|:---:|
-| Java | Spring Security | JPA / Hibernate | React.js | Git |
-| Spring Boot | JWT | JDBC | JavaScript | GitHub |
-| Spring MVC | RBAC | MySQL / SQL | HTML / CSS | Docker |
-| REST APIs | Validation | PostgreSQL | Redux | Postman |
+<table>
+<tr>
+<th align="center">🧩 Backend</th>
+<th align="center">🔐 Security</th>
+<th align="center">🗄️ Persistence</th>
+<th align="center">⚛️ Frontend</th>
+<th align="center">🔧 Tools</th>
+</tr>
+<tr>
+<td>
+
+- Java
+- Spring Boot
+- Spring MVC
+- REST APIs
+
+</td>
+<td>
+
+- Spring Security
+- JWT
+- RBAC
+- Validation
+
+</td>
+<td>
+
+- JPA / Hibernate
+- JDBC
+- MySQL / SQL
+- PostgreSQL
+
+</td>
+<td>
+
+- React.js
+- JavaScript
+- HTML / CSS
+- Redux
+
+</td>
+<td>
+
+- Git
+- GitHub
+- Docker
+- Postman
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🍕 Food Express
+<br>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🍕 Food Express
 
 **Spring Boot REST application focused on secure backend development.**
 
 Built with layered architecture, authentication, authorization, REST APIs and database persistence.
 
-### Key Features
+**Key Features**
+- 🔑 JWT-based authentication
+- 🛡️ Spring Security integration
+- 🎭 Role-based authorization
+- 🔗 RESTful CRUD APIs
+- 🗃️ JPA / Hibernate persistence
+- 🐬 MySQL database integration
 
-- JWT-based authentication
-- Spring Security integration
-- Role-based authorization
-- RESTful CRUD APIs
-- JPA / Hibernate persistence
-- MySQL database integration
-
-**Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
-
-<div align="center">
-
-<img src="./assets/food-express-architecture.svg" width="90%" alt="Food Express system architecture"/>
-
-<br><br>
+`Java` `Spring Boot` `Spring Security` `JWT` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
 
 <a href="https://food-express-qnae.onrender.com">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="https://github.com/sufyankhan1127/food-express">
+<img src="https://img.shields.io/badge/SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+</td>
+<td width="40%" valign="top">
 
----
+<img src="./assets/food-express-architecture.svg" width="100%" alt="Food Express system architecture"/>
 
-## 🍔 UrbanEats
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### 🍔 UrbanEats
 
 **Java-based food delivery web application built with traditional Java web technologies.**
 
 Designed around an MVC-oriented structure to understand request handling, sessions, CRUD operations and database connectivity.
 
-### Key Features
+**Key Features**
+- 👤 User authentication and session management
+- 🍽️ Restaurant and food management
+- 📦 Order management
+- 🔗 CRUD operations
+- 🔌 JDBC-based database integration
+- 🏗️ MVC architecture
 
-- User authentication and session management
-- Restaurant and food management
-- Order management
-- CRUD operations
-- JDBC-based database integration
-- MVC architecture
-
-**Tech:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML` `CSS`
+`Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML` `CSS`
 
 <a href="https://github.com/sufyankhan1127/UrbanEats">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
+</tr>
+</table>
 
-## 💰 Expense & Savings Tracker
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### 💰 Expense & Savings Tracker
 
 **Spring Boot application for managing expenses, budgets and savings through REST APIs.**
 
-### Key Features
+**Key Features**
+- 💸 Expense management
+- 📊 Budget tracking
+- 🏦 Savings management
+- 🔗 RESTful CRUD APIs
+- 🗃️ JPA / Hibernate persistence
+- 🐬 MySQL integration
 
-- Expense management
-- Budget tracking
-- Savings management
-- RESTful CRUD APIs
-- JPA / Hibernate persistence
-- MySQL integration
-
-**Tech:** `Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
+`Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
 
 <a href="https://expense-budget-savings-tracker.onrender.com">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
----
+</td>
+</tr>
+</table>
 
-# 🧠 Engineering Focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
+
+## 🧠 Engineering Focus
 
 <div align="center">
 
@@ -154,9 +237,11 @@ Designed around an MVC-oriented structure to understand request handling, sessio
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 ### ☕ Backend
 
@@ -202,9 +287,11 @@ Designed around an MVC-oriented structure to understand request handling, sessio
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 🔭 Currently Exploring
+## 🔭 Currently Exploring
 
 <div align="center">
 
@@ -220,9 +307,11 @@ Designed around an MVC-oriented structure to understand request handling, sessio
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -238,11 +327,19 @@ Designed around an MVC-oriented structure to understand request handling, sessio
 
 <img src="https://streak-stats.demolab.com?user=sufyankhan1127&theme=tokyonight&hide_border=true&background=050816&ring=06B6D4&fire=67E8F9&currStreakLabel=67E8F9" width="70%"/>
 
+<br><br>
+
+<a href="https://github.com/sufyankhan1127">
+<img src="https://github-profile-trophy.vercel.app/?username=sufyankhan1127&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+</a>
+
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -250,9 +347,11 @@ Designed around an MVC-oriented structure to understand request handling, sessio
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=2&width=1000" width="100%"/>
+</div>
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -281,5 +380,9 @@ I'm open to **software development opportunities, collaborations and interesting
 <br><br>
 
 **Building today. Learning every day. Engineering for tomorrow.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=120&section=footer" width="100%"/>
 
 </div>
