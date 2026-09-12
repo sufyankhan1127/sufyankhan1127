@@ -1,81 +1,107 @@
-# Hi, I'm Mohd Sufyan Khan 👋
+<div align="center">
+
+# `Mohd-Sufyan-Khan`
 
 ### Java Backend & Full Stack Developer
 
-I build maintainable web applications and REST APIs using **Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL, and React.js**. I enjoy turning real-world requirements into reliable software with clean architecture, secure authentication, and practical database design.
+Building secure, maintainable applications with **Java, Spring Boot, REST APIs, and SQL**.
 
-[Portfolio](https://sufyankhan1127.github.io/sufyan-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohd-sufyan-khan-1127sk) · [Email](mailto:sufyankhan.01127@gmail.com)
+<br/>
 
----
+<a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/sufyankhan1127">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"/>
+</a>
+<a href="mailto:sufyankhan.01127@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"/>
+</a>
 
-## About Me
+<br/><br/>
 
-- Focused on **Java backend and full-stack development**
-- Interested in secure REST API design, database-driven applications, and scalable architecture
-- Comfortable working with both traditional Java web technologies and modern Spring Boot applications
-- Currently exploring **microservices, Redis, Apache Kafka, LangChain4j, and AI integration**
-- Open to junior Java Developer, Backend Developer, and Full Stack Developer opportunities
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,git,docker,postman&theme=dark" alt="Technology stack"/>
 
----
-
-## Tech Stack
-
-### Languages
-`Java` `JavaScript` `Python` `SQL`
-
-### Backend
-`Spring Boot` `Spring MVC` `Spring Security` `REST APIs` `JWT` `JDBC` `JSP` `Servlets`
-
-### Persistence & Databases
-`Spring Data JPA` `Hibernate` `MySQL` `PostgreSQL` `MongoDB`
-
-### Frontend
-`React.js` `HTML5` `CSS3`
-
-### Tools & Platforms
-`Git` `GitHub` `Maven` `Docker` `Postman` `IntelliJ IDEA` `Eclipse` `Render` `Vercel`
+</div>
 
 ---
 
-## Featured Projects
+## `$ whoami`
+
+```text
+Name       : Mohd Sufyan Khan
+Role       : Java Backend & Full Stack Developer
+Primary    : Java | Spring Boot | REST APIs | SQL
+Interests  : Secure APIs | Clean Architecture | Database Design
+Currently  : Exploring Microservices, Redis, Kafka and AI Integration
+```
+
+I build practical, database-driven applications across the Java ecosystem—from **JSP, Servlets, and JDBC** to modern **Spring Boot REST APIs** secured with Spring Security and JWT.
+
+My focus is on understanding how applications work end to end: designing APIs, structuring backend services, handling persistence, validating requests, and deploying working applications.
+
+---
+
+## `./featured-work`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🍔 Food Express
 
-A Spring Boot REST application focused on secure backend development and database persistence.
+**Secure Spring Boot REST application**
+
+A backend-focused food delivery application built around authentication, authorization, REST APIs, and database persistence.
 
 **Highlights**
-- JWT-based authentication
-- Spring Security integration
+- JWT authentication
+- Spring Security
 - Role-based authorization
 - RESTful APIs
-- Spring Data JPA and Hibernate
-- MySQL database integration
+- JPA / Hibernate
+- MySQL integration
 
-**Tech:** Java · Spring Boot · Spring Security · JWT · REST APIs · JPA · Hibernate · MySQL
+**Stack**
 
-[Live Demo](https://food-express-qnae.onrender.com) · [Source Code](https://github.com/sufyankhan1127/food-express)
+`Java` `Spring Boot` `JWT` `JPA` `Hibernate` `MySQL`
 
----
+<a href="https://food-express-qnae.onrender.com">Live Demo</a> · <a href="https://github.com/sufyankhan1127/food-express">Source Code</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🍕 UrbanEats
 
-A Java-based food delivery web application built with traditional Java web technologies.
+**Traditional Java web application**
+
+A food delivery web application built to understand MVC-oriented request handling, sessions, CRUD operations, and direct database connectivity.
 
 **Highlights**
-- User authentication and session management
+- User authentication and sessions
 - Restaurant and food management
 - Order management
-- CRUD operations
-- JDBC-based database connectivity
-- MVC-oriented application structure
+- JDBC database connectivity
+- JSP and Servlets
+- MVC-oriented structure
 
-**Tech:** Java · JSP · Servlets · JDBC · MySQL · HTML · CSS
+**Stack**
 
-[Source Code](https://github.com/sufyankhan1127/UrbanEats)
+`Java` `JSP` `Servlets` `JDBC` `MySQL`
 
----
+<a href="https://github.com/sufyankhan1127/UrbanEats">Source Code</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 Expense & Savings Tracker
+
+**Personal finance management API**
 
 A Spring Boot application for managing expenses, budgets, and savings through REST APIs.
 
@@ -84,53 +110,122 @@ A Spring Boot application for managing expenses, budgets, and savings through RE
 - Budget tracking
 - Savings management
 - RESTful CRUD APIs
-- JPA/Hibernate persistence
-- MySQL integration
+- JPA / Hibernate
+- MySQL persistence
 
-**Tech:** Java · Spring Boot · REST APIs · Spring Data JPA · Hibernate · MySQL
+**Stack**
 
-[Live Demo](https://expense-budget-savings-tracker.onrender.com)
+`Java` `Spring Boot` `REST` `JPA` `Hibernate` `MySQL`
+
+<a href="https://expense-budget-savings-tracker.onrender.com">Live Demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 What I Build
+
+**Backend systems with a full-stack mindset**
+
+I enjoy working on applications that combine:
+
+- Structured Java code
+- Layered architecture
+- Secure API design
+- Relational databases
+- Frontend integration
+- Deployment and testing
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Interests
+## `./tech-stack`
 
-- Object-Oriented Design and clean code
-- Layered architecture and MVC
-- DTOs, validation, and exception handling
-- Authentication, authorization, and API security
-- SQL, joins, transactions, and database optimization
-- Microservices and distributed systems
-- Cloud deployment and developer tooling
+<div align="center">
+
+### Backend & Languages
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,js&theme=dark" alt="Backend and language technologies"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend technologies"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Database technologies"/>
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,eclipse&theme=dark" alt="Tools and DevOps technologies"/>
+
+</div>
 
 ---
 
-## Currently Learning
+## `./engineering-focus`
+
+| Area | What I work with |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring MVC, REST APIs |
+| **Security** | Spring Security, JWT, validation, authorization |
+| **Persistence** | JDBC, JPA, Hibernate, SQL |
+| **Architecture** | OOP, MVC, layered architecture, DTOs |
+| **Frontend** | React.js, JavaScript, HTML5, CSS3 |
+| **Testing & Tools** | Postman, Git, GitHub, Maven |
+| **Deployment** | Render, Vercel, Docker |
+
+---
+
+## `./currently-exploring`
 
 ```text
-Java Backend
-    ├── Advanced Spring Boot
-    ├── Spring Security and JWT
-    ├── REST API design
-    └── Testing and production practices
-
-Next Focus
-    ├── Microservices
-    ├── Redis
-    ├── Apache Kafka
-    ├── LangChain4j
-    └── AI-powered applications
+[01] Advanced Spring Boot
+[02] Microservices architecture
+[03] Redis and caching
+[04] Apache Kafka and event-driven systems
+[05] LangChain4j
+[06] AI-powered backend applications
 ```
+
+> Learn → Build → Test → Deploy → Improve
 
 ---
 
-## Let's Connect
+## `./developer-principles`
 
-If you are working on Java, Spring Boot, backend engineering, or full-stack applications, feel free to connect.
+- Write code that is easy to understand and maintain.
+- Prefer clear separation of responsibilities.
+- Design APIs around real application requirements.
+- Understand the database queries behind the application.
+- Learn concepts by building projects, not only by memorizing definitions.
 
-- **Portfolio:** https://sufyankhan1127.github.io/sufyan-portfolio/
-- **GitHub:** https://github.com/sufyankhan1127
-- **LinkedIn:** https://www.linkedin.com/in/mohd-sufyan-khan-1127sk
-- **Email:** sufyankhan.01127@gmail.com
+---
 
-> Building today. Learning every day. Improving with every project.
+## `./connect`
+
+<div align="center">
+
+### Let's build something useful.
+
+I'm interested in **Java backend, Spring Boot, REST API, and full-stack development opportunities**.
+
+<a href="https://sufyankhan1127.github.io/sufyan-portfolio/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:sufyankhan.01127@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/mohd-sufyan-khan-1127sk">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/sufyankhan1127">GitHub</a>
+
+<br/><br/>
+
+<sub>Building today. Learning every day. Improving with every project.</sub>
+
+</div>
